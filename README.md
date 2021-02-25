@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-
+https://erikvaughn3.github.io/run-buddy/
 
 ## Contribution
 Made with love by Erik Vaughn
