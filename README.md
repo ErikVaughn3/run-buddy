@@ -12,3 +12,5 @@ https://erikvaughn3.github.io/run-buddy/
 
 ## Contribution
 Made with love by Erik Vaughn
+
+### ©️2019 Run Buddy, Inc
